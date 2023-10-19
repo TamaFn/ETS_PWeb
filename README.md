@@ -1,2 +1,3 @@
-# ETS_PWeb
-Membuat Website Portal Berita Dalam Pemenuhan Tugas ETS 
+# Blog-Website
+
+## Membuat Website Portal Berita Menggunakan HTML, CSS, dan JS 
